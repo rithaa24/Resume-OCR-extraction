@@ -8,7 +8,7 @@ Automate the extraction of crucial data from resumes using advanced Optical Char
 ![Forks](https://img.shields.io/github/forks/rithaa24/Resume-OCR-extraction?style=social)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
-![Project Preview](OCR Resumes Dataset/download.webp)
+![Project Preview](Resume-OCR-extraction/OCR Resumes Dataset/download.webp)
 
 
 ## ✨ Features
